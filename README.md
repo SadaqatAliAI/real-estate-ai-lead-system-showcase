@@ -48,6 +48,24 @@ Plus:
 
 ![Featured properties](images/website-listings.png)
 
+**WhatsApp: the customer sends a voice note; the AI transcribes it, offers the matching flat and books the visit in Roman Urdu** (as seen in the dashboard)
+
+![WhatsApp conversation with a voice note](images/dashboard-lead-whatsapp.png)
+
+**Dashboard overview: new and hot leads, what customers want, leads by source and over time**
+
+![Dashboard overview](images/dashboard-overview.png)
+
+**Leads list with filters and Hot score**
+
+![Leads list](images/dashboard-leads.png)
+
+**Property management: the same listings the AI searches**
+
+![Properties](images/dashboard-properties.png)
+
+_Customer names and phone numbers in the screenshots are replaced with demo values._
+
 ## How it works
 
 ```mermaid
