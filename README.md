@@ -108,4 +108,4 @@ flowchart LR
 
 **Source code is private.** Built by **Sadaqat Ali, Jenssair Technologies**. Available for client projects.
 
-Contact: _[your email or LinkedIn here]_
+Contact: [github.com/SadaqatAliAI](https://github.com/SadaqatAliAI)
